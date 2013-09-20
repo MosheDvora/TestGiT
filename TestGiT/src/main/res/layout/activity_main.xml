@@ -28,7 +28,19 @@
         android:text="@string/hello_world" />
 
     <TextView
-        android:id="tv4"
+        android:id="tv6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />
+
+    <TextView
+    android:id="tv7"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/hello_world" />
+
+    <TextView
+        android:id="tv8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/hello_world" />
